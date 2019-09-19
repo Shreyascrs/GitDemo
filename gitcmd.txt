@@ -1,0 +1,338 @@
+    4  git
+   20  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   22  brew install git
+   36  git init
+   37  git status
+   38  git add remote origin git@github.com:Shreyascrs/Rectangle.git
+   39  git remote add origin git@github.com:Shreyascrs/Rectangle.git
+   40  git commit -m "[shreyas|sneha] Add. initializing Rectangle"
+   41  git push -u origin master
+   42  git add .
+   43  git commit -m "[shreyas|sneha] Add. initializing rectangle project"
+   44  git push -f origin master
+   45  git add .
+   46  git commit -m "[shreyas|sneha] Add. failing test script of rectangle class"
+   47  git push origin master
+   50  git add .
+   51  git commit -m "[shreyas|sneha] Add. passing first test script of rectangle class"
+   52  git push origin master
+   54  git add .
+   56  git commit -m "[shreyas|sneha] Add.Calulatig area with one parameter as zero and another as nonzero"
+   57  git push origin master
+   58  git status
+   67  git init
+   68  git add .
+   69  git commit -m "[shreyas] Initalizing Project"
+   70  git remote add origin git@github.com:Shreyascrs/assignment1.git
+   71  git push -u origin maste
+   72  git push -u origin master
+   83  rm .git
+   84  rm -rf .git
+   88  git init
+   90  git add .
+   91  git commit -m "[shreyas] Initializing Project"
+   92  git remote add origin git@github.com:Shreyascrs/assignment1.git
+   93  git push -u origin master 
+  109  git log
+  132  git init
+  133  git add .
+  149  git status
+  150  git add .
+  152  .git
+  175  .git
+  188  .git
+  198  .git
+  206  git log
+  209  git add .
+  210  git status
+  211  git commit -m "[shreyas|shreyas] Add. readme.md file added\n"
+  212  .git
+  221  git status
+  222  git add .
+  223  git log
+  226  git log
+  227  git status
+  230  git status
+  231  git add .
+  232  git commit -m "[shreyas|shreyas] Add. readme file added"
+  235  .git
+  242  git commit -m "[shreyas|shreyas] Add. readme file added"
+  243  .git
+  249  git commit -m "[shreyas|shreyas] Add. readme file added"
+  250  .git
+  254  git commit -m "[shreyas|shreyas] Add. readme file added"
+  255  .git
+  260  git commit -m "[shreyas|shreyas] Add. readme file added"
+  261  .git
+  265  git commit -m "[shreyas|shreyas] Add. readme file added"
+  266  .git
+  270  git commit -m "[shreyas|shreyas] Add. readme file added"
+  271  .git
+  275  git commit -m "[shreyas|shreyas] Add. readme file added"
+  276  .git
+  280  git commit -m "[shreyas|shreyas] Add. readme file added"
+  281  .git
+  297  git commit -m "[shreyas|shreyas] Add. readme file added"
+  298  .git
+  302  git commit -m "[shreyas|shreyas] Add. readme file added"
+  303  git commit
+  304  .git
+  309  git add .
+  310  git commit -m "[ss]"
+  311  .git
+  316  .git
+  322  git add .
+  323  git commit -m "[ss]"
+  324  .git
+  330  git status
+  334  git add .
+  335  git commit -m "\n"
+  336  git status
+  337  git add .
+  338  git commit -m "[as]"
+  341  git add .
+  342  git commit -m "[ss|]"
+  345  git add .
+  346  git commit -m "[shreyas|shreyas] Add. adding"
+  347  git commit -m "[shreyas|shreyas] Add.adding"
+  348  git commit -m "[shreyas|shreyas]Add.adding"
+  349  git commit -m "[shreyas|shreyas]Add."
+  350  git commit -m "[shreyas|shreyas] Add."
+  351  git commit -m "[shreyas|shreyas]Add."
+  352  git commit -m "[shreyas|shreyas]"
+  353  git commit -m "[shreyas|]"
+  356  git add.
+  357  git add .
+  358  git commit -m "[shreyas|]"
+  360  git add .
+  361  git commit -m "[shreyas\n|shreyas]"
+  364  git add .
+  365  git commit -m "[shreyas|shreyas] "
+  366  git commit -m "[shreyas|shreyas][ ]"
+  367  git commit -m "[shreyas|shreyas] "
+  368  git commit -m "[shreyas|shreyas] Add."
+  369  git commit -m "[shreyas|shreyas] Fix."
+  371  git commit -m "[shreyas|shreyas] Fix."
+  372  git commit -m "[shreyas|shreyas]Fix."
+  373  git commit -m "[shreyas|shreyas]"
+  375  git add b.md
+  376  git commit -m "[shreyas|shreyas] "
+  378  git add c.md
+  379  git commit -m "[shreyas|shreyas] Add."
+  380  git commit -m "[shreyas|shreyas]Add."
+  383  git add d.md
+  384  git commit -m "[shreyas|shreyas] Add."
+  386  git add e.md
+  387  git commit -m "[shreyas|shreyas]  Add."
+  389  git add .
+  390  git commit -m "[shreyas|shreyas]Add."
+  393  git add .
+  394  git commit -m "[shreyas|shreyas]  Add."
+  395  git commit -m "[shreyas|shreyas]Add."
+  396  git commit -m "[shreyas|shreyas] Add."
+  399  git add .
+  400  git commit -m "[shreyas|shreyas]Add."
+  402  git add .
+  403  git commit -m "[shreyas|shreyas]Add."
+  405  git add .
+  406  git commit -m "[shreyas|shreyas]Add."
+  408  git add .
+  409  git commit -m "[shreyas|shreyas]Add."
+  410  git commit -m "[shreyas|shreyas] Add."
+  411  git commit -m "[shreyas|shreyas]Add."
+  412  git commit -m "[shreyas|shreyas] Add."
+  415  git add .
+  416  git commit -m "[shreyas|shreyas] Add."
+  417  git commit -m "[shreyas|shreyas]Add."
+  419  git add .
+  420  git commit -m "[shreyas|shreyas]Add."
+  422  git add .
+  423  git commit -m "[shreyas|shreyas]Add."
+  424  git push
+  425  git commit -m "[shreyas|shreyas]Add."
+  427  git add .
+  428  git commit -m "[shreyas|shreyas]Add."
+  429  git commit -m "[shreyas|shreyas] Add."
+  431  git add .
+  432  git commit -m "[shreyas|shreyas] Add."
+  434  git add .
+  435  git commit -m "[shreyas|shreyas]Add."
+  437  git add .
+  438  git commit -m "[shreyas|shreyas]Add.Fix."
+  440  git add .
+  441  git commit -m "[shreyas|shreyas]Add.Fix."
+  443  git add .
+  444  git commit -m "[shreyas|shreyas]Add.Fix."
+  446  git add .
+  447  git commit -m "[shreyas|shreyas]Add.Fix."
+  449  git add .
+  450  git commit -m "[shreyas|shreyas]Add.Fix."
+  451  git commit -m "[shreyas|shreyas]Add."
+  453  git add .
+  454  git commit -m "[shreyas|shreyas]Add."
+  455  git commit -m "[shreyas|shreyas] Add."
+  457  git add .
+  458  git commit -m "[shreyas|shreyas] Add. finalstep"
+  460  git add .
+  461  git commit -m "[shreyas|shreyas] Add. final step"
+  463  git add .
+  464  git commit -m "[shreyas|shreyas] Add. final step"
+  466  git add .
+  467  git commit -m "[shreyas|shreyas]Add. final step"
+  469  git add .
+  470  git commit -m "[shreyas|shreyas] Add. final step"
+  472  git add .
+  473  git commit -m "[shreyas|shreyas]Add. final step"
+  474  git push origin master
+  478  .git
+  484  .git
+  490  git add .
+  491  git commit -m "[shreyas|shreyas] Fix. xcdcdc"
+  492  git status
+  493  git commit -m "[shreyas|shreyas] Fix. xcdcdc"
+  495  git add .
+  496  git commit -m "[shreyas|shreyas] Fix. sghjk"
+  497  git commit -m "[shreyas|shreyas] Add. sghjk"
+  499  git commit -m "[shreyas|shreyas] Add. sghjk"
+  500  git commit -m "[shreyas|shreyas] "
+  502  git add .
+  503  git commit -m "[shreyas|shreyas]  "
+  505  git commit -m "[shreyas|shreyas]  "
+  506  git add .
+  507  git commit -m "[shreyas|shreyas]  "
+  509  git add .
+  510  git commit -m "[shreyas|shreyas]  "
+  512  git add .
+  513  git commit -m "[shreyas|shreyas]  "
+  515  git add .
+  516  git commit -m "[shreyas|shreyas]  "
+  517  git commit -m "[shreyas|shreyas]"
+  518  git commit -m "[shreyas|shreyas] "
+  520  git add .
+  521  git commit -m "[shreyas|shreyas]  "
+  523  git add .
+  524  git commit -m "[shreyas|shreyas] Add."
+  526  git add .
+  527  git commit -m "[shreyas|shreyas] Add. fghjk"
+  528  git push origin master
+  531  .git
+  538  git add .
+  539  git commit -m "[shreyas|shreyas] Add. hjk"
+  541  git add .
+  542  git commit -m "[shreyas|shreyas] Add. hjk"
+  544  git add .
+  545  git commit -m "[shreyas|shreyas] Add. hjvbnk"
+  546  .git
+  559  git add .
+  561  git push
+  565  git clone git@github.com:tw-bl-bootcamp/animal-farm-Shreyascrs.git
+  568  git push
+  569  git add .
+  570  git push
+  573  git add .
+  581  git clone git@github.com:tw-bl-bootcamp/mars-rover-Shreyascrs.git
+  616  git clone git@github.com:tw-bl-bootcamp/iflix-Shreyascrs.git
+  624  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
+  626  Run in Terminal app:\nruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
+  669  git clone git@github.com:tw-bl-bootcamp/iflix-Shreyascrs.git
+  836  git add backend
+  837  git commit -m "[shreyas] Add. login functionality"
+  838  git push origin master
+  839  git push -f origin master
+  840  git add frontend
+  841  git commit -m "[shreyas] initaizing frontend angular project"
+  842  git push origin master
+  851  git add backend
+  852  git log
+  853  git commit -m "[shreyas] Refactor. login functonality"
+  854  git push origin master 
+  855  git add frontend
+  856  git commit -m "[shreyas] Add. frontend login functionality"
+  857  git push origin master
+  858  git add backend
+  859  git push -m "[shreyas] Add. Theator entity"
+  860  git commit -m "[shreyas] Add. Theator entity"
+  861  git push origin master 
+  869  git add frontend
+  871  git add frontend
+  872  git commit -m "[shreyas] Add. dashboard functionality"
+  873  git push origin master
+  874  git add backend
+  875  git commit -m "[shreyas] Add . Movie,Theator functionality"
+  876  git push origin master
+  886  git add frontend
+  888  git add frontend
+  889  git commit -m "[shreyas] Modify. movie functionality"
+  890  git push origin master
+  891  git add .
+  892  git commit -m "[shreyas] last commit of the swession"
+  893  git push origin master
+  903  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+  946  git init
+  947  git commit -m "[shreyas|varsha] initalizing project"
+  948  git add .
+  949  git commit -m "[shreyas|varsha] initalizing project"
+  950  git remote add origin git@github.com:Shreyascrs/GitDemo.git
+  951  git push -u origin master
+  952  git add .
+  953  git commit -m "[shreyas|varsha] Add. welcome message"
+  954  git push origin master
+  955  git pull GitDemo
+  956  git pull origin master
+  957  git status
+  958  git add .
+  959  git commit -m "[shreyas|varsha] Modify. welcome msg"
+  960  git status
+  961  git log
+  962  git diff
+  963  git push origin master
+  964  git pull origin master
+  965  git push origin master
+  966  git pull origin master
+  967  git add .
+  968  git push origin master
+  969  git commit -m "[shreyas|varsha] Modify. welcome msg after conflict"
+  970  git push origin master
+  971  git log oneline
+  972  git log singel line
+  973  git log single line
+  975  git log
+  976  git branch demobranch
+  977  git branch
+  978  git checkout master 
+  979  git pull origin master
+  980  git add .
+  981  git commit -m "adding branch"
+  982  git push origin master 
+  983  git checkout demobranch 
+  984  git add .
+  985  git commit -m "adding branch"
+  986  git push origin master 
+  987  git add .
+  988  git commit -m "changing data in branch"
+  989  git push origin demobranch 
+  990  git pull demobranch
+  991  git pull demobranch master
+  992  git merge demobranch
+  993  git diff
+  994  git add .
+  995  git commit -m "pushing branch"
+  996  git push origin demobranch 
+  997  git pull origin demobranch 
+  998  git push origin demobranch 
+  999  git merge demobranch
+ 1000  git add .
+ 1001  git commit -m "pushing to master"
+ 1002  git push origin demobranch 
+ 1003  git merge master 
+ 1004  git checkout master
+ 1005  git pull origin demobranch 
+ 1006  git status
+ 1007  git merge --abort
+ 1008  git status
+ 1009  git push origin demobranch 
+ 1010  git checkout master 
+ 1011  git merge demobranch 
+ 1012  git add .
+ 1013  git commit -m "final commit\n"
+ 1014  git push origin master 
